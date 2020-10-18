@@ -3,6 +3,7 @@
   padding: 0;
 }
 
+<<<<<<< HEAD
 // yellow color
 $color-primary: #f9ed69;
 $color-tertiary: #b83b5e;
@@ -99,3 +100,11 @@ nav {
     background-color: darken($color-tertiary, 15%);
   }
 }
+=======
+$color-primary: #ffdd60; // yellow color
+
+nav {
+  margin: 30px;
+  background-color: $color-primary;
+}
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99

@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f6b2ce-83e3-4366-ba6d-3f28666ba277" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/advanced-css-course.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/favicon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/hero-small.jpg" afterDir="false" />
@@ -33,10 +36,13 @@
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/video.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/video.webm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Natours/_my_version/index.html" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/_sass_test/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_sass_test/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_sass_test/styles.css.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_sass_test/styles.scss" afterDir="false" />
+=======
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +67,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Natours/_my_version" />
     <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+=======
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,16 +79,23 @@
       <recent name="$PROJECT_DIR$/Natours/_my_version" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/advanced-css-course/_sass_test/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager">
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/advanced-css-course/Natours/_my_version/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JavaScript Debug.index.html (1)" />
+=======
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -94,8 +111,11 @@
       <workItem from="1602861760249" duration="7139000" />
       <workItem from="1602878474909" duration="3924000" />
       <workItem from="1602937399826" duration="6001000" />
+<<<<<<< HEAD
       <workItem from="1603031295786" duration="129000" />
       <workItem from="1603031517343" duration="4372000" />
+=======
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     </task>
     <servers />
   </component>
@@ -107,6 +127,7 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="0" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1602928127125" />
+<<<<<<< HEAD
     <state x="187" y="381" width="724" height="485" key="EditFileWatcherDialog" timestamp="1603031417775">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
@@ -212,10 +233,65 @@
     </state>
     <state x="0" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1602937423788" />
     <state x="43" y="243" key="SettingsEditor/43.27.2517.1413@43.27.2517.1413" timestamp="1603035963533" />
+=======
+    <state width="959" height="366" key="GridCell.Tab.0.bottom" timestamp="1602965989713">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989713" />
+    <state width="959" height="366" key="GridCell.Tab.0.center" timestamp="1602965989712">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989712" />
+    <state width="959" height="366" key="GridCell.Tab.0.left" timestamp="1602965989710">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989710" />
+    <state width="959" height="366" key="GridCell.Tab.0.right" timestamp="1602965989712">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989712" />
+    <state width="959" height="366" key="GridCell.Tab.1.bottom" timestamp="1602965989714">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
+    <state width="959" height="366" key="GridCell.Tab.1.center" timestamp="1602965989714">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.1.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
+    <state width="959" height="366" key="GridCell.Tab.1.left" timestamp="1602965989713">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.1.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989713" />
+    <state width="959" height="366" key="GridCell.Tab.1.right" timestamp="1602965989714">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.1.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
+    <state width="959" height="366" key="GridCell.Tab.2.bottom" timestamp="1602965989717">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.2.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989717" />
+    <state width="959" height="366" key="GridCell.Tab.2.center" timestamp="1602965989715">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.2.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989715" />
+    <state width="959" height="366" key="GridCell.Tab.2.left" timestamp="1602965989715">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.2.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989715" />
+    <state width="959" height="366" key="GridCell.Tab.2.right" timestamp="1602965989716">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="959" height="366" key="GridCell.Tab.2.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989716" />
+    <state x="0" y="161" key="SettingsEditor" timestamp="1602937423788">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="0" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1602937423788" />
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     <state x="208" y="260" width="540" height="540" key="StructurePopup" timestamp="1602939071291">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="208" y="260" width="540" height="540" key="StructurePopup/0.0.1920.1052@0.0.1920.1052" timestamp="1602939071291" />
+<<<<<<< HEAD
     <state width="653" height="600" key="SwitcherDM" timestamp="1603032657496">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
@@ -236,3 +312,15 @@
     <state x="223" y="339" width="881" height="911" key="search.everywhere.popup/43.27.2517.1413@43.27.2517.1413" timestamp="1603032933966" />
   </component>
 </project>
+=======
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602939629044">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1052@0.0.1920.1052" timestamp="1602939629044" />
+    <state x="137" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1602968595732">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="137" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1602968595732" />
+  </component>
+</project>
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99

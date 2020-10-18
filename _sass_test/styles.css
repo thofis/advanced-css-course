@@ -5,6 +5,7 @@
 
 nav {
   margin: 30px;
+<<<<<<< HEAD
   background-color: #f9ed69;
 }
 nav::after {
@@ -57,6 +58,9 @@ nav::after {
 }
 .btn-hot:hover {
   background-color: #7e2840;
+=======
+  background-color: #ffdd60;
+>>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
 }
 
 /*# sourceMappingURL=styles.css.map */
