@@ -2,47 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f6b2ce-83e3-4366-ba6d-3f28666ba277" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/advanced-css-course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/hero-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/logo-green-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/logo-green-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/logo-green-small-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/logo-green-small-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-1-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-2-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-3-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/nat-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/img/video.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natours/_my_version/index.html" afterDir="false" />
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/_sass_test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass_test/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass_test/styles.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass_test/styles.scss" afterDir="false" />
-=======
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/fonts/linea-basic-10.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/fonts/linea-basic-10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/fonts/linea-basic-10.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/fonts/linea-basic-10.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/css/icon-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/abstracts/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/base/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/base/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/components/_composition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/components/_feature-box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/layouts/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/layouts/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natours/_my_version/sass/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/_my_version/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/_my_version/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/_my_version/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/_my_version/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natours/_my_version/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/_my_version/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass_test/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_sass_test/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,37 +48,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Natours/_my_version" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Natours/_my_version/css" />
     <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
-=======
-    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Natours/_my_version/css" />
       <recent name="$PROJECT_DIR$/Natours/_my_version" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/advanced-css-course/_sass_test/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-=======
   <component name="RunManager">
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/advanced-css-course/Natours/_my_version/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-=======
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -111,11 +80,9 @@
       <workItem from="1602861760249" duration="7139000" />
       <workItem from="1602878474909" duration="3924000" />
       <workItem from="1602937399826" duration="6001000" />
-<<<<<<< HEAD
       <workItem from="1603031295786" duration="129000" />
       <workItem from="1603031517343" duration="4372000" />
-=======
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
+      <workItem from="1603455454679" duration="16076000" />
     </task>
     <servers />
   </component>
@@ -127,113 +94,6 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="0" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1602928127125" />
-<<<<<<< HEAD
-    <state x="187" y="381" width="724" height="485" key="EditFileWatcherDialog" timestamp="1603031417775">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state x="187" y="381" width="724" height="485" key="EditFileWatcherDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1603031417775" />
-    <state x="387" y="294" width="740" height="659" key="EnvironmentVariablesDialog" timestamp="1603031416213">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state x="387" y="294" width="740" height="659" key="EnvironmentVariablesDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1603031416213" />
-    <state width="1249" height="483" key="GridCell.Tab.0.bottom" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989713" />
-    <state width="1249" height="439" key="GridCell.Tab.0.bottom/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611964" />
-    <state width="1249" height="483" key="GridCell.Tab.0.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.0.center" timestamp="1603032995425">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989712" />
-    <state width="1249" height="439" key="GridCell.Tab.0.center/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611960" />
-    <state width="1249" height="483" key="GridCell.Tab.0.center/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995425" />
-    <state width="1249" height="483" key="GridCell.Tab.0.left" timestamp="1603032995425">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989710" />
-    <state width="1249" height="439" key="GridCell.Tab.0.left/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611959" />
-    <state width="1249" height="483" key="GridCell.Tab.0.left/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995425" />
-    <state width="1249" height="483" key="GridCell.Tab.0.right" timestamp="1603032995425">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989712" />
-    <state width="1249" height="439" key="GridCell.Tab.0.right/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611963" />
-    <state width="1249" height="483" key="GridCell.Tab.0.right/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995425" />
-    <state width="1249" height="483" key="GridCell.Tab.1.bottom" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
-    <state width="1249" height="439" key="GridCell.Tab.1.bottom/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.1.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.1.center" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.1.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
-    <state width="1249" height="439" key="GridCell.Tab.1.center/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.1.center/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.1.left" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.1.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989713" />
-    <state width="1249" height="439" key="GridCell.Tab.1.left/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611745" />
-    <state width="1249" height="483" key="GridCell.Tab.1.left/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.1.right" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.1.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989714" />
-    <state width="1249" height="439" key="GridCell.Tab.1.right/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.1.right/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.2.bottom" timestamp="1603032995427">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.2.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989717" />
-    <state width="1249" height="439" key="GridCell.Tab.2.bottom/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611747" />
-    <state width="1249" height="483" key="GridCell.Tab.2.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995427" />
-    <state width="1249" height="483" key="GridCell.Tab.2.center" timestamp="1603032995427">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.2.center/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989715" />
-    <state width="1249" height="439" key="GridCell.Tab.2.center/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.2.center/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995427" />
-    <state width="1249" height="483" key="GridCell.Tab.2.left" timestamp="1603032995426">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.2.left/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989715" />
-    <state width="1249" height="439" key="GridCell.Tab.2.left/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.2.left/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995426" />
-    <state width="1249" height="483" key="GridCell.Tab.2.right" timestamp="1603032995427">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="959" height="366" key="GridCell.Tab.2.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989716" />
-    <state width="1249" height="439" key="GridCell.Tab.2.right/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611746" />
-    <state width="1249" height="483" key="GridCell.Tab.2.right/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995427" />
-    <state width="1249" height="483" key="GridCell.Tab.3.bottom" timestamp="1603032995428">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="1249" height="439" key="GridCell.Tab.3.bottom/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611748" />
-    <state width="1249" height="483" key="GridCell.Tab.3.bottom/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995428" />
-    <state width="1249" height="483" key="GridCell.Tab.3.center" timestamp="1603032995427">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="1249" height="439" key="GridCell.Tab.3.center/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611747" />
-    <state width="1249" height="483" key="GridCell.Tab.3.center/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995427" />
-    <state width="1249" height="483" key="GridCell.Tab.3.left" timestamp="1603032995427">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="1249" height="439" key="GridCell.Tab.3.left/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611747" />
-    <state width="1249" height="483" key="GridCell.Tab.3.left/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995427" />
-    <state width="1249" height="483" key="GridCell.Tab.3.right" timestamp="1603032995428">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state width="1249" height="439" key="GridCell.Tab.3.right/43.27.2501.1301@43.27.2501.1301" timestamp="1603031611747" />
-    <state width="1249" height="483" key="GridCell.Tab.3.right/43.27.2517.1413@43.27.2517.1413" timestamp="1603032995428" />
-    <state x="43" y="243" key="SettingsEditor" timestamp="1603035963533">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state x="0" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1602937423788" />
-    <state x="43" y="243" key="SettingsEditor/43.27.2517.1413@43.27.2517.1413" timestamp="1603035963533" />
-=======
     <state width="959" height="366" key="GridCell.Tab.0.bottom" timestamp="1602965989713">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
@@ -282,45 +142,28 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state width="959" height="366" key="GridCell.Tab.2.right/0.0.1920.1052@0.0.1920.1052" timestamp="1602965989716" />
-    <state x="0" y="161" key="SettingsEditor" timestamp="1602937423788">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state x="43" y="243" key="SettingsEditor" timestamp="1603530011321">
+      <screen x="43" y="27" width="2517" height="1413" />
     </state>
     <state x="0" y="161" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1602937423788" />
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
+    <state x="43" y="243" key="SettingsEditor/43.27.2517.1413@43.27.2517.1413" timestamp="1603530011321" />
     <state x="208" y="260" width="540" height="540" key="StructurePopup" timestamp="1602939071291">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="208" y="260" width="540" height="540" key="StructurePopup/0.0.1920.1052@0.0.1920.1052" timestamp="1602939071291" />
-<<<<<<< HEAD
-    <state width="653" height="600" key="SwitcherDM" timestamp="1603032657496">
+    <state width="653" height="600" key="SwitcherDM" timestamp="1603555936083">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1052@0.0.1920.1052" timestamp="1602939629044" />
-    <state width="653" height="600" key="SwitcherDM/43.27.2517.1413@43.27.2517.1413" timestamp="1603032657496" />
-    <state x="445" y="412" width="434" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603032282926">
+    <state width="653" height="600" key="SwitcherDM/43.27.2517.1413@43.27.2517.1413" timestamp="1603555936083" />
+    <state x="343" y="456" width="618" height="554" key="find.popup" timestamp="1603529311158">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
-    <state x="445" y="412" width="434" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/43.27.2517.1413@43.27.2517.1413" timestamp="1603032282926" />
-    <state x="331" y="344" key="run.anything.popup" timestamp="1603032198447">
-      <screen x="43" y="27" width="2517" height="1413" />
-    </state>
-    <state x="331" y="344" key="run.anything.popup/43.27.2517.1413@43.27.2517.1413" timestamp="1603032198447" />
-    <state x="223" y="339" width="881" height="911" key="search.everywhere.popup" timestamp="1603032933966">
+    <state x="343" y="456" width="618" height="554" key="find.popup/43.27.2517.1413@43.27.2517.1413" timestamp="1603529311158" />
+    <state x="223" y="339" width="881" height="911" key="search.everywhere.popup" timestamp="1603554312289">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
     <state x="137" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1602968595732" />
-    <state x="223" y="339" width="881" height="911" key="search.everywhere.popup/43.27.2517.1413@43.27.2517.1413" timestamp="1603032933966" />
+    <state x="223" y="339" width="881" height="911" key="search.everywhere.popup/43.27.2517.1413@43.27.2517.1413" timestamp="1603554312289" />
   </component>
 </project>
-=======
-    <state width="498" height="446" key="SwitcherDM" timestamp="1602939629044">
-      <screen x="0" y="0" width="1920" height="1052" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1052@0.0.1920.1052" timestamp="1602939629044" />
-    <state x="137" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1602968595732">
-      <screen x="0" y="0" width="1920" height="1052" />
-    </state>
-    <state x="137" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1602968595732" />
-  </component>
-</project>
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99

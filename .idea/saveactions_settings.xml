@@ -3,16 +3,9 @@
   <component name="SaveActionSettings">
     <option name="actions">
       <set>
-<<<<<<< HEAD
-=======
-        <option value="activate" />
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
+        <option value="organizeImports" />
         <option value="reformat" />
       </set>
     </option>
   </component>
-<<<<<<< HEAD
 </project>
-=======
-</project>
->>>>>>> 2abed321c62a9612c7d9820368378a3e55cf0d99
