@@ -24,6 +24,12 @@
   background-color: white;
 }
 
+.btn--white {
+  position: relative;
+  color: $color-white;
+  background-color: $color-primary;
+}
+
 .btn::after {
   content: " ";
   display: inline-block;

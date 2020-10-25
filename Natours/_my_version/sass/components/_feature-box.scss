@@ -11,10 +11,13 @@
   &__icon {
     font-size: 6rem;
     margin-bottom: .5rem;
+
+    // produces color gradient on icon (works the same as on text)
     background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
     display: inline-block;
     -webkit-background-clip: text;
     color: transparent;
+
 
   }
 
